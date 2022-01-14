@@ -22,4 +22,4 @@
 ## 🛠️ Tecnologias Utilizadas
 
 - [PHP](https://www.php.net/);
-- [PHPMailer}(https://github.com/PHPMailer/PHPMailer)
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer);
